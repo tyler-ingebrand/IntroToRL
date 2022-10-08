@@ -14,5 +14,5 @@
 
 ## Where to go:
 - Create your own MDP: See google or https://towardsdatascience.com/creating-a-custom-openai-gym-environment-for-stock-trading-be532be3910e for examples. 
-- Try to solve Atari games or Robotics using one of these reinforcement learning algs. You would have to install a few packages (from the command line this time) but LMK, I can help. 
+- Try to solve Atari games or Robotics using one of these reinforcement learning algs. You would have to install a few packages (from the command line this time) but LMK, I can help. ** Might require linux machine
 - To get a good understanding of the algorithms, read the papers (Simply google the algorithm names and you will find the paper). Then compare to the source code at https://github.com/DLR-RM/stable-baselines3/tree/master/stable_baselines3. If you can understand how the algorithm becomes code you can do research in the field. Most of the algorithms are only 1 trick more complicated than the last. 
