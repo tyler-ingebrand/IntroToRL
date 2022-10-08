@@ -5,6 +5,7 @@
 - Create new project
 - Go to settings (top right) > Project > Python Interpreter > Add package "stable-baselines3" (Use the plus sign, this will take some time to download)
 - Do the same thing for package "pyglet"
+- Copy + Paste the scripts from this repo for starting points.
 
 ## Starting point. Play with the provided scripts. 
 - Run show_MDPs.py to see MDPs in action. They are basically games.
